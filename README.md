@@ -1,0 +1,2 @@
+# duckpad
+📝 An awesome notepad
